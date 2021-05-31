@@ -1,2 +1,2 @@
-# docker-counter
+# docker-counter-client
 sample react application for docker
